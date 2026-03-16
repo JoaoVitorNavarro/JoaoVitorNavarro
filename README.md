@@ -41,8 +41,8 @@ Aqui estão as tecnologias que utilizo no meu dia a dia corporativo e nos meus p
 
 <div align="center">
   <a href="https://github.com/JoaoVitorNavarro">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaEne0&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorNavarro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorNavarro&layout=compact&langs_count=7&theme=dracula"/>
+   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorNavarro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400"/>
   </a>
 </div>
 
